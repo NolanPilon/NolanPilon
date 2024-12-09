@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
-<h3 align="center">I'm a Web and Game Developer who makes some pretty whacky stuff</h3>
+<h3 align="center">I'm a Web Developer and hobbyist Game Developer</h3>
 <br>
 
 <h3 align="left">About me:</h3>
 
-- 🎮 I play Counter-Strike, Destiny, and Old School RuneScape
+- 🎮 I play games like Counter-Strike, Destiny, and Old School RuneScape
 
 - 🔭 I’m currently working on a social media styled application for Android
 
