@@ -6,7 +6,7 @@
 
 - 🎮 I play games like Counter-Strike, Destiny, and Old School RuneScape
 
-- 🔭 I’m currently working on a social media styled application for Android
+- 🔭 I’m currently working on a contractor connection Progressive Web Application
 
 - 👨‍💻 All of my game projects can be found at [https://nolanpilon.github.io](https://nolanpilon.github.io)
 
